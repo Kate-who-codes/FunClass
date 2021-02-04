@@ -1,3 +1,3 @@
 Hi my name is Kate and I'm funny.
 
-A few words were addedgit add .
+we want our master branch in here
